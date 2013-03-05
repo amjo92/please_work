@@ -1,0 +1,27 @@
+// Place all the styles related to the hello controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#col1 {
+position:absolute;
+margin:0px 0px 0px 0px;
+width:350px;
+background:#FF00FF;
+height:600px; //Change the height of the div
+}
+
+#col2 {
+position:absolute;
+margin:0px 0px 0px 300px;
+width:600px;
+background:#01A9DB;
+height:600px; //Change the height of the div
+}
+
+#col3 {
+position:absolute;
+margin:0px 0px 0px 600px;
+width:350px;
+background:#FF00FF;
+height:600px; //Change the height of the div
+}
